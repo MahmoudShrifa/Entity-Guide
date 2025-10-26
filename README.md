@@ -442,4 +442,4 @@ var mostExpensive = products.MaxBy(p => p.Price);
 > ⭐ *Created with passion to help other .NET developers understand EF Core in a simple and practical way.*
 ````
 
----
+
